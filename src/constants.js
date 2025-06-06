@@ -34,14 +34,13 @@ import mcLogo from './assets/tech_logo/mc.png';
 import figmaLogo from './assets/tech_logo/figma.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
-import postgreLogo from './assets/tech_logo/postgre.png';
-import csharpLogo from './assets/tech_logo/csharp.png';
+
 import renderlogo from './assets/tech_logo/render.png';
 
 // Experience Section Logo's
 import electronicartslogo from './assets/company_logo/electronic_arts.png';
 import accenturelogo from './assets/company_logo/accenture.png';
-import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
+
 
 // Education Section Logo's
 
