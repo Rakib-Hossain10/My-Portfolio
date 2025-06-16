@@ -213,7 +213,7 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "bookStore - Academic Editions for Uneversity Students",
+      title: "BookStore - Academic Editions for Uneversity Students",
       description:
         "I built a bookstore application with the MERN stack that starts by showcasing a curated selection of the best self‐growth titles right on the homepage. Once a student creates an account and selects their current semester, the platform instantly adapts to display the exact textbooks required for that term—no more hunting through endless lists. Each book entry includes a “More Details” button that, when clicked, takes the student straight to its Wikipedia page for a quick overview of content, author background, and reviews. By streamlining recommendations based on semester and offering immediate access to in‐depth information, the app transforms the chore of sourcing course materials into a smooth, one‐stop experience tailored to every university timetable.",
       image: bookylogo,

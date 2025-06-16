@@ -34,7 +34,7 @@ const About = () => {
           </h2>
           {/* Skills Heading with the new typewriter effect */}
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
-            <span className="text-white">I am a  Aspiring</span>
+            <span className="text-white">I am a  aspiring </span>
             <span>{text}</span>
             <Cursor cursorStyle="|" className="text-[#8245ec]" />
           </h3>
